@@ -9,21 +9,34 @@
 /* Begin PBXBuildFile section */
 		8839EEE8242AD0B80049D3FB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8839EEE7242AD0B80049D3FB /* AppDelegate.m */; };
 		8839EEEA242AD0B80049D3FB /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 8839EEE9242AD0B80049D3FB /* GameScene.sks */; };
-		8839EEEC242AD0B80049D3FB /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 8839EEEB242AD0B80049D3FB /* Actions.sks */; };
 		8839EEEF242AD0B80049D3FB /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 8839EEEE242AD0B80049D3FB /* GameScene.m */; };
 		8839EEF2242AD0B80049D3FB /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8839EEF1242AD0B80049D3FB /* GameViewController.m */; };
 		8839EEF5242AD0B80049D3FB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8839EEF3242AD0B80049D3FB /* Main.storyboard */; };
 		8839EEF7242AD0B90049D3FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8839EEF6242AD0B90049D3FB /* Assets.xcassets */; };
 		8839EEFA242AD0B90049D3FB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8839EEF8242AD0B90049D3FB /* LaunchScreen.storyboard */; };
 		8839EEFD242AD0B90049D3FB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8839EEFC242AD0B90049D3FB /* main.m */; };
+		885109D7242DA5D1003A9BA0 /* MenuScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 885109D6242DA5D1003A9BA0 /* MenuScene.sks */; };
+		885109E0242DA6F3003A9BA0 /* MenuScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 885109DF242DA6F3003A9BA0 /* MenuScene.m */; };
+		888BF7A0242E746400908875 /* Button.m in Sources */ = {isa = PBXBuildFile; fileRef = 888BF79F242E746400908875 /* Button.m */; };
+		888BF7A3242E832A00908875 /* Settings.m in Sources */ = {isa = PBXBuildFile; fileRef = 888BF7A2242E832A00908875 /* Settings.m */; };
+		888BF7A6242F6CE900908875 /* LoseScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7A5242F6CE900908875 /* LoseScene.sks */; };
+		888BF7A8242F6CF300908875 /* LoseScene.m in Sources */ = {isa = PBXBuildFile; fileRef = 888BF7A7242F6CF300908875 /* LoseScene.m */; };
+		888BF7C9242FC0E300908875 /* switch.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C0242FC0E300908875 /* switch.caf */; };
+		888BF7CA242FC0E300908875 /* bg.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C1242FC0E300908875 /* bg.caf */; };
+		888BF7CB242FC0E300908875 /* win.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C2242FC0E300908875 /* win.caf */; };
+		888BF7CC242FC0E300908875 /* error.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C3242FC0E300908875 /* error.caf */; };
+		888BF7CD242FC0E300908875 /* wow.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C4242FC0E300908875 /* wow.caf */; };
+		888BF7CE242FC0E300908875 /* lose.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C5242FC0E300908875 /* lose.caf */; };
+		888BF7CF242FC0E300908875 /* menu_bg.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C6242FC0E300908875 /* menu_bg.caf */; };
+		888BF7D0242FC0E300908875 /* click.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C7242FC0E300908875 /* click.caf */; };
+		888BF7D1242FC0E300908875 /* success.caf in Resources */ = {isa = PBXBuildFile; fileRef = 888BF7C8242FC0E300908875 /* success.caf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8839EEE3242AD0B80049D3FB /* word_warp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = word_warp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8839EEE3242AD0B80049D3FB /*  Word Wrap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = " Word Wrap.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8839EEE6242AD0B80049D3FB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8839EEE7242AD0B80049D3FB /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		8839EEE9242AD0B80049D3FB /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		8839EEEB242AD0B80049D3FB /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		8839EEED242AD0B80049D3FB /* GameScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
 		8839EEEE242AD0B80049D3FB /* GameScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
 		8839EEF0242AD0B80049D3FB /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
@@ -33,6 +46,26 @@
 		8839EEF9242AD0B90049D3FB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8839EEFB242AD0B90049D3FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8839EEFC242AD0B90049D3FB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8839EF05242B8BFC0049D3FB /* Words.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Words.h; sourceTree = "<group>"; };
+		885109D6242DA5D1003A9BA0 /* MenuScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MenuScene.sks; sourceTree = "<group>"; };
+		885109DF242DA6F3003A9BA0 /* MenuScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MenuScene.m; sourceTree = "<group>"; };
+		885109E1242DA6FD003A9BA0 /* MenuScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MenuScene.h; sourceTree = "<group>"; };
+		888BF79F242E746400908875 /* Button.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Button.m; sourceTree = "<group>"; };
+		888BF7A1242E746C00908875 /* Button.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Button.h; sourceTree = "<group>"; };
+		888BF7A2242E832A00908875 /* Settings.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Settings.m; sourceTree = "<group>"; };
+		888BF7A4242E833200908875 /* Settings.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Settings.h; sourceTree = "<group>"; };
+		888BF7A5242F6CE900908875 /* LoseScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = LoseScene.sks; sourceTree = "<group>"; };
+		888BF7A7242F6CF300908875 /* LoseScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LoseScene.m; sourceTree = "<group>"; };
+		888BF7A9242F6CFB00908875 /* LoseScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LoseScene.h; sourceTree = "<group>"; };
+		888BF7C0242FC0E300908875 /* switch.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = switch.caf; sourceTree = "<group>"; };
+		888BF7C1242FC0E300908875 /* bg.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = bg.caf; sourceTree = "<group>"; };
+		888BF7C2242FC0E300908875 /* win.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = win.caf; sourceTree = "<group>"; };
+		888BF7C3242FC0E300908875 /* error.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = error.caf; sourceTree = "<group>"; };
+		888BF7C4242FC0E300908875 /* wow.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = wow.caf; sourceTree = "<group>"; };
+		888BF7C5242FC0E300908875 /* lose.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = lose.caf; sourceTree = "<group>"; };
+		888BF7C6242FC0E300908875 /* menu_bg.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = menu_bg.caf; sourceTree = "<group>"; };
+		888BF7C7242FC0E300908875 /* click.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = click.caf; sourceTree = "<group>"; };
+		888BF7C8242FC0E300908875 /* success.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.caf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +90,7 @@
 		8839EEE4242AD0B80049D3FB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8839EEE3242AD0B80049D3FB /* word_warp.app */,
+				8839EEE3242AD0B80049D3FB /*  Word Wrap.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,21 +98,56 @@
 		8839EEE5242AD0B80049D3FB /* word_warp */ = {
 			isa = PBXGroup;
 			children = (
+				888BF7BF242FC0BD00908875 /* resources */,
 				8839EEE6242AD0B80049D3FB /* AppDelegate.h */,
 				8839EEE7242AD0B80049D3FB /* AppDelegate.m */,
-				8839EEE9242AD0B80049D3FB /* GameScene.sks */,
-				8839EEEB242AD0B80049D3FB /* Actions.sks */,
-				8839EEED242AD0B80049D3FB /* GameScene.h */,
-				8839EEEE242AD0B80049D3FB /* GameScene.m */,
-				8839EEF0242AD0B80049D3FB /* GameViewController.h */,
+				885109DE242DA6DD003A9BA0 /* Game */,
 				8839EEF1242AD0B80049D3FB /* GameViewController.m */,
+				8839EEF0242AD0B80049D3FB /* GameViewController.h */,
 				8839EEF3242AD0B80049D3FB /* Main.storyboard */,
 				8839EEF6242AD0B90049D3FB /* Assets.xcassets */,
 				8839EEF8242AD0B90049D3FB /* LaunchScreen.storyboard */,
 				8839EEFB242AD0B90049D3FB /* Info.plist */,
 				8839EEFC242AD0B90049D3FB /* main.m */,
+				8839EF05242B8BFC0049D3FB /* Words.h */,
 			);
 			path = word_warp;
+			sourceTree = "<group>";
+		};
+		885109DE242DA6DD003A9BA0 /* Game */ = {
+			isa = PBXGroup;
+			children = (
+				8839EEE9242AD0B80049D3FB /* GameScene.sks */,
+				8839EEED242AD0B80049D3FB /* GameScene.h */,
+				8839EEEE242AD0B80049D3FB /* GameScene.m */,
+				885109D6242DA5D1003A9BA0 /* MenuScene.sks */,
+				885109E1242DA6FD003A9BA0 /* MenuScene.h */,
+				885109DF242DA6F3003A9BA0 /* MenuScene.m */,
+				888BF79F242E746400908875 /* Button.m */,
+				888BF7A1242E746C00908875 /* Button.h */,
+				888BF7A2242E832A00908875 /* Settings.m */,
+				888BF7A4242E833200908875 /* Settings.h */,
+				888BF7A5242F6CE900908875 /* LoseScene.sks */,
+				888BF7A7242F6CF300908875 /* LoseScene.m */,
+				888BF7A9242F6CFB00908875 /* LoseScene.h */,
+			);
+			path = Game;
+			sourceTree = "<group>";
+		};
+		888BF7BF242FC0BD00908875 /* resources */ = {
+			isa = PBXGroup;
+			children = (
+				888BF7C1242FC0E300908875 /* bg.caf */,
+				888BF7C7242FC0E300908875 /* click.caf */,
+				888BF7C3242FC0E300908875 /* error.caf */,
+				888BF7C5242FC0E300908875 /* lose.caf */,
+				888BF7C6242FC0E300908875 /* menu_bg.caf */,
+				888BF7C8242FC0E300908875 /* success.caf */,
+				888BF7C0242FC0E300908875 /* switch.caf */,
+				888BF7C2242FC0E300908875 /* win.caf */,
+				888BF7C4242FC0E300908875 /* wow.caf */,
+			);
+			path = resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -99,7 +167,7 @@
 			);
 			name = word_warp;
 			productName = word_warp;
-			productReference = 8839EEE3242AD0B80049D3FB /* word_warp.app */;
+			productReference = 8839EEE3242AD0B80049D3FB /*  Word Wrap.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -139,11 +207,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				888BF7A6242F6CE900908875 /* LoseScene.sks in Resources */,
+				888BF7D1242FC0E300908875 /* success.caf in Resources */,
 				8839EEF5242AD0B80049D3FB /* Main.storyboard in Resources */,
+				888BF7CF242FC0E300908875 /* menu_bg.caf in Resources */,
+				888BF7CD242FC0E300908875 /* wow.caf in Resources */,
+				888BF7CE242FC0E300908875 /* lose.caf in Resources */,
+				888BF7D0242FC0E300908875 /* click.caf in Resources */,
 				8839EEEA242AD0B80049D3FB /* GameScene.sks in Resources */,
+				885109D7242DA5D1003A9BA0 /* MenuScene.sks in Resources */,
 				8839EEF7242AD0B90049D3FB /* Assets.xcassets in Resources */,
+				888BF7C9242FC0E300908875 /* switch.caf in Resources */,
+				888BF7CB242FC0E300908875 /* win.caf in Resources */,
 				8839EEFA242AD0B90049D3FB /* LaunchScreen.storyboard in Resources */,
-				8839EEEC242AD0B80049D3FB /* Actions.sks in Resources */,
+				888BF7CA242FC0E300908875 /* bg.caf in Resources */,
+				888BF7CC242FC0E300908875 /* error.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -155,9 +233,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				8839EEEF242AD0B80049D3FB /* GameScene.m in Sources */,
+				885109E0242DA6F3003A9BA0 /* MenuScene.m in Sources */,
+				888BF7A8242F6CF300908875 /* LoseScene.m in Sources */,
 				8839EEF2242AD0B80049D3FB /* GameViewController.m in Sources */,
+				888BF7A0242E746400908875 /* Button.m in Sources */,
 				8839EEFD242AD0B90049D3FB /* main.m in Sources */,
 				8839EEE8242AD0B80049D3FB /* AppDelegate.m in Sources */,
+				888BF7A3242E832A00908875 /* Settings.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,13 +380,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NFQNCB9J9Y;
 				INFOPLIST_FILE = word_warp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "takeiteasy.word-warp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = " Word Wrap";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -314,13 +397,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = NFQNCB9J9Y;
 				INFOPLIST_FILE = word_warp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "takeiteasy.word-warp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = " Word Wrap";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;

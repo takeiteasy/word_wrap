@@ -1,6 +1,6 @@
 # Word Wrap
 
-an iOS game about anagrams
+an iOS game about anagrams. Designed for iPad, doesn't work on iPhone very well yet. 
 
 # Credits
 
